@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Live Chat - Don't Trust, Verify</title>
+    <h3> Live Chat System</h3>
+    
+   <style>
+        /* Add your CSS styles for the chat interface here */
+        /* For simplicity, we'll use basic styles */
+        .chat-container {
+            width: 300px;
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+        .chat-messages {
+            height: 300px;
+            overflow-y: auto;
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-messages" id="chat-messages">
+            <!-- Chat messages will be displayed here -->
+        </div>
+        <input type="text" id="user-input" placeholder="Type your question...">
+        <button onclick="sendUserMessage()">Send</button>
+    </div>
+
+    <script>
+        // Define predefined questions and responses
+        const qaData = [
+            {
+                question: "What is Don't Trust, Verify?",
+                answer: "Don't Trust, Verify is an organization dedicated to promoting verification and critical thinking in the Bitcoin industry."
+            },
+            {
+                question: "Tell me about Bitcoin.",
+                answer: "Bitcoin is a decentralized digital currency that allows peer-to-peer transactions without the need for intermediaries."
+            },
+            {
+                question: "How do digital transactions work?",
+                answer: "Digital transactions involve the transfer of digital assets or data from one party to another over a network, often secured using cryptographic techniques."
+            },
+            // Add more predefined Q&A pairs as needed
+        ];
+
+        // Function to send a user message and get a response
+        function sendUserMessage() {
+            const userInput = document.getElementById("user-input").value;
+            const chatMessages = document.getElementById("chat-messages");
+
+            // Display user message
+            chatMessages.innerHTML += `<p>User: ${userInput}</p>`;
+
+            // Find a matching response from predefined data
+            const response = findResponse(userInput);
+
+            // Display the response
+            if (response) {
+                chatMessages.innerHTML += `<p>Bot: ${response}</p>`;
+            } else {
+                chatMessages.innerHTML += `<p>Bot: Sorry, I couldn't find a matching response.</p>`;
+            }
+
+            // Clear user input
+            document.getElementById("user-input").value = "";
+        }
+
+        // Function to find a response based on user input
+        function findResponse(userInput) {
+            const lowerInput = userInput.toLowerCase();
+
+            for (const qa of qaData) {
+                if (lowerInput.includes(qa.question.toLowerCase())) {
+                    return qa.answer;
+                }
+            }
+
+            return null; // No matching response found
+        }
+    </script>
+<h3>Return back to..</h3>
+<li><a href="index.html">Home</a></li>
+    <li><a href="community.html">Community</a></li>
+    <li><a href="blog.html">Blog</a></li>
+</body>
+</html>
