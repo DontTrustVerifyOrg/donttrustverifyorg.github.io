@@ -1,45 +1,37 @@
-<!DOCTYPE html >
-<html lang="{{ site.lang }}">
+---
+layout: default
+---
 
-  {% include head.html %}
-
-  <body>
-
-    <!-- Page Loader -->
-    <div id="page-loader" class="page-loader"><span class="load-icon"></span></div>
-
-    {% include header-page.html %}
-
-    <!-- Page Section -->
-    <section class="site-section blog-section page-layout" id="start">
-      <div class="container">
-
-        <!-- Page Layout -->
-        <div class="row">
-
-          <!-- Sidebar -->
-          <div class="col-md-4 hidden-xs hidden-sm">
-
-            {% include sidebar.html %}
-
-          </div>
-
-          <!-- Content -->
-          <div class="col-md-8 blog-articles-container">
-
-            {{ content }}
-
-          </div>
-
-        </div>
-
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="page__info">
+        <h1 class="page__title">{{ page.title | escape }}</h1>
       </div>
-    </section>
+    </div>
+  </div>
+</div>
 
-    {% include footer.html %}
+<!-- begin page -->
+<div class="container animate">
 
-    {% include scripts.html %}
+  {% if page.image %}
+  <div class="row">
+    <div class="col col-12">
+      <div class="page-image">
+        <img src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
+      </div>
+    </div>
+  </div>
+  {% endif %}
 
-  </body>
+  <article class="page">
+    <div class="page__content">
+      {{ content }}
+    </div>
+  </article>
 
-</html>
+</div>
+<!-- end page -->
+
+{% include section-subscribe.html %}

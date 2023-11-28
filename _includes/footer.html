@@ -1,42 +1,31 @@
-<!-- Site Footer -->
-<footer class="site-footer" id="footer">
+<!-- begin footer -->
+<footer class="footer">
+
   <div class="container">
-
     <div class="row">
-      <div class="col-md-6 col-md-push-3 footer-info text-center">
+      <div class="col col-12">
 
-        <div class="footer-logo">
-          <img src="{{ site.baseurl }}/images/logo-focus.svg" width="140" alt="Sera - OnePage Logo by Ohkimur" />
+        <div class="footer__inner">
+          {% if site.data.settings.social %}
+            <div class="social">
+              <ul class="social__list list-reset">
+                {% for social in site.data.settings.social %}
+                  <li class="social__item">
+                    <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener" aria-label="{{social.label}} link"><i class="ion {{social.icon}}" style="color: {{social.color}};"></i> {{social.label}}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+          {% endif %}
         </div>
 
-        <div class="footer-info-text">
-          <p>{{ site.footer-description }}</p>
+        <div class="footer__info">
+          <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/">{{site.data.settings.title}}</a>. Crafted & Designed by <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.</div>
         </div>
 
-        <div class="social-icons">
-          <ul class="icons">
-            <li><a href="{{ site.youtube }}" target="_blank"><i class="fi flaticon-youtube"></i></a></li>
-            <li><a href="{{ site.pinterest }}" target="_blank"><i class="fi flaticon-pinterest"></i></a></li>
-            <li><a href="{{ site.facebook }}" target="_blank"><i class="fi flaticon-facebook"></i></a></li>
-            <li><a href="{{ site.twitter }}" target="_blank"><i class="fi flaticon-twitter"></i></a></li>
-            <li><a href="{{ site.google-plus }}" target="_blank"><i class="fi flaticon-google-plus"></i></a></li>
-            <li><a href="{{ site.vimeo }}" target="_blank"><i class="fi flaticon-vimeo"></i></a></li>
-          </ul>
-        </div>
-
-      </div>
-
-      <div class="col-md-8 col-md-push-2 footer-copyright">
-        <div class="footer-text text-center">
-          <p>All Right Reserved!</p>
-          <p><a href="{{ site.footer-copyright-url }}">{{ site.footer-copyright-text }}</a> &copy; {{
-            site.footer-copyright-year }} Copyright</p>
-        </div>
       </div>
     </div>
-
   </div>
-</footer>
 
-<!-- Go To Top Button -->
-<a href="#home" class="go-to-top-button"><i class="pe-7s-angle-up"></i></a>
+</footer>
+<!-- end footer -->
