@@ -1,80 +1,46 @@
-<!DOCTYPE html>
-<html style="font-size: 16px;" lang="en"><head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-    <meta name="keywords" content="​Explore our latest thoughts and insights through blogs such as:">
-    <meta name="description" content="">
-    <title>blog</title>
-    <link rel="stylesheet" href="nicepage.css" media="screen">
-<link rel="stylesheet" href="blog.css" media="screen">
-    <script class="u-script" type="text/javascript" src="jquery-1.9.1.min.js" defer=""></script>
-    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
-    <meta name="generator" content="Nicepage 6.0.13, nicepage.com">
-    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i|Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
-    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
-    
-    
-    
-    
-    <script type="application/ld+json">{
-		"@context": "http://schema.org",
-		"@type": "Organization",
-		"name": ""
-}</script>
-    <meta name="theme-color" content="#803bec">
-    <meta property="og:title" content="blog">
-    <meta property="og:type" content="website">
-  <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
-  <body data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en">
-    <section class="u-align-center u-clearfix u-image u-section-1" id="carousel_1e61" data-image-width="1024" data-image-height="1024">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <a href="Main-Page.html" class="u-active-black u-border-2 u-border-grey-75 u-btn u-button-style u-hover-palette-5-base u-white u-btn-1">MAIN PAGE</a>
-        <a href="community.html" class="u-active-black u-border-2 u-border-grey-75 u-btn u-button-style u-hover-palette-5-base u-white u-btn-2">COMMUNITY</a>
-        <h3 class="u-custom-font u-font-montserrat u-text u-text-white u-text-1">Don't Trust, Verify - Blog</h3>
-        <div class="custom-expanded u-border-20 u-border-custom-color-4 u-line u-line-horizontal u-line-1"></div>
-        <p class="u-text u-text-white u-text-2">Welcome to the b​log page</p>
-      </div>
-    </section>
-    <section class="u-clearfix u-custom-color-4 u-section-2" id="sec-8da8">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <div class="data-layout-selected u-clearfix u-expanded-width u-gutter-10 u-layout-wrap u-layout-wrap-1">
-          <div class="u-layout" style="">
-            <div class="u-layout-row" style="">
-              <div class="u-container-style u-layout-cell u-left-cell u-size-30 u-size-xs-60 u-layout-cell-1" src="">
-                <div class="u-container-layout u-container-layout-1">
-                  <h2 class="u-align-center u-text u-text-default u-text-1"> Explore our latest thoughts and insights through blogs such as:</h2>
-                  <ul class="u-align-left u-custom-font u-heading-font u-text u-text-2">
-                    <li>Bitcoin talk -&nbsp;https://bitcointalk.org/</li>
-                    <li>21 Lessons (Lesson 16) -&nbsp;https://21lessons.com/16/</li>
-                    <li>Bitcoin Forum -&nbsp;https://forum.bitcoin.com/</li>
-                    <li>
-                      <br>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div class="u-align-center u-container-style u-image u-layout-cell u-right-cell u-size-30 u-size-xs-60 u-image-1" src="" data-image-width="1280" data-image-height="720">
-                <div class="u-container-layout u-valign-middle u-container-layout-2" src=""></div>
-              </div>
+---
+layout: page
+tagline: Just
+title: Read Our <strong>Blog</strong>
+---
+
+{% for post in site.posts %}
+
+  <!-- Blog Article -->
+  <div class="post-full">
+    <article class="blog-article clearfix">
+
+      <!-- Article Header -->
+      <header class="article-header">
+        <div class="img-wrap">
+          <img src="{{ site.baseurl }}/images/blog/{{ post.image }}" alt="Article Blog Image">
+        </div>
+        <div class="article-title">
+          <h3 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+          <h4 class="category">{{ post.categories | first }}</h4>
+        </div>
+      </header>
+
+      <!-- Article Content -->
+      <div class="article-content">
+        <div class="article-date text-center">
+          <div class="date parent">
+            <div class="date-wrap child-center">
+              <div class="day">{{ post.date | date: "%d" }}</div>
+              <div class="month">{{ post.date | date: "%b" }}</div>
             </div>
           </div>
+          <div class="time">{{ post.date | date: "%H:%M" }}</div>
+        </div>
+        <div class="article-text">
+          {{ post.content | truncatewords:75 }}
+        </div>
+        <div class="show-more">
+          <a href="{{ site.baseurl }}{{ post.url }}" class="button">Read More</a>
         </div>
       </div>
-    </section>
-    
-    
-    
-    
-    <section class="u-backlink u-clearfix u-grey-80">
-      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
-        <span>Website Templates</span>
-      </a>
-      <p class="u-text">
-        <span>created with</span>
-      </p>
-      <a class="u-link" href="" target="_blank">
-        <span>Website Builder Software</span>
-      </a>. 
-    </section>
-  
-</body></html>
+
+    </article>
+  </div>
+
+{% endfor %}
