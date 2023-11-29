@@ -2,31 +2,36 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/01.jpg'
+image: '/images/about.png'
 ---
 
-Leverage agile frameworks to provide a robust [Hugo Sousa](https://unsplash.com/photos/BghGseQbAkA) synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+The mission of the "Don't Trust, Verify" foundation is to promote the widespread adoption and use of Bitcoin as a secure and decentralized digital currency by educating individuals, businesses, and governments.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Through advocacy, education, and community engagement, the foundation aims to empower people to take control of their financial future and promote the principles of transparency, privacy, and security in the cryptocurrency space.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+> We will work toward our mission by...
+Educating the public on the basics of Bitcoin and the benefits of using a decentralized digital currency.
+Supporting selected open-source projects which will accelerate Bitcoin adaptation.
+Encouraging businesses to accept Bitcoin as a form of payment and providing guidance on how to do so.
+Advocating for government policies that support the growth and adoption of Bitcoin and other cryptocurrencies.
+Building a strong community of Bitcoin enthusiasts who share the values of the foundation and can work together to achieve its mission.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+The "Don't Trust, Verify" foundation believes that Bitcoin has the potential to revolutionize the financial industry by providing a more secure, transparent, and decentralized system for conducting transactions. Through its efforts, the foundation hopes to create a world where individuals have more control over their money and where financial transactions are conducted in a more open and equitable manner.The Don't Trust, Verify Foundation is a non-profit organization that was established to promote the use and adoption of Bitcoin, as well as to support and educate the community of users, developers, and businesses involved in the Bitcoin ecosystem.
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+![Workflow]({{site.baseurl}}/images/verify.png)
 
-![Workflow]({{site.baseurl}}/images/03.jpg)
-*Photo by [Hugo Sousa](https://unsplash.com/photos/BghGseQbAkA) on Unsplash*
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+The vision of the Don't Trust, Verify Foundation is to create a world where Bitcoin is a widely used and trusted currency that enables people to participate in the global economy on their own terms. The Foundation's goals include promoting the growth and development of the Bitcoin network, supporting the development of innovative applications and technologies that build on the Bitcoin protocol, and fostering education and awareness of the benefits of Bitcoin and blockchain technology. Overall, the Don't Trust, Verify Foundation envisions a future where Bitcoin is widely accepted and used as a means of exchange and store of value, enabling individuals and businesses to transact with greater speed, security, and efficiency than traditional financial systems.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+### Our Values
 
-### Podcasting
+Raising Awareness - The Foundation works to raise awareness of cryptocurrencies and their potential benefits, as well as to educate the public about the risks and challenges associated with this new technology.
 
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking. Completely pursue scalable [Hugo Sousa](https://unsplash.com/photos/BghGseQbAkA) customer service through sustainable potentialities.
+Promoting Adoption - The Foundation encourages the adoption of cryptocurrencies by individuals, businesses, and institutions, and provides support and resources to help facilitate this adoption.
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or "organic" sources.
+Supporting Development - ​The Foundation supports the development of blockchain technology by funding research and development projects, as well as by providing mentorship and other resources to developers.
+
+Advocating for Policies - The Foundation advocates for policies that promote the growth and global  adoption of cryptocurrencies, and engages with government officials and other stakeholders to help shape these policies.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -40,18 +45,20 @@ Collaboratively administrate turnkey channels whereas virtual e-tailers. Objecti
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
+### Bitcoin
+#### Bitcoin has the potential to revolutionize much more than just one industry. Here are some potential areas where Bitcoin could make a significant impact:
 
-Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. Dramatically engage top-line web services vis-a-vis cutting-edge deliverables.
-
-### Synergistically evolve
-
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
 
 <p><iframe src="https://player.vimeo.com/video/147264547?title=0&byline=0" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
 
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
+Financial Inclusion - ​Bitcoin can enable people without access to traditional banking services to participate in the global financial system, as all you need is an internet connection to use Bitcoin. 
 
-Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.
+Micropayments - ​With Bitcoin, it is possible to send and receive very small payments quickly and cheaply. This could open up new possibilities for content creators and artists to monetize their work, as well as for small businesses to accept payments for low-cost items.
+
+Decentralized Finance - ​Bitcoin is built on a decentralized blockchain, which means that it can be used to create a wide range of financial products and services that operate independently of traditional financial institutions. This has led to the rise of decentralized finance (DeFi), which is a new financial system that uses blockchain technology to provide financial services that are open, transparent, and accessible to everyone.
+
+Supply Chain Management - ​The blockchain technology that underpins Bitcoin can be used to create a transparent and secure supply chain management system. This could enable businesses to track products from the point of origin to the point of sale, which would help to prevent fraud, counterfeiting, and other supply chain problems.
+
+Identity Verification - ​Bitcoin's blockchain technology can be used to create a secure and decentralized system for identity verification. This could help to prevent identity theft and fraud, as well as to make it easier for people to access financial services and other online services that require identity verification.
 
 ***
