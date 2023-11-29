@@ -10,11 +10,17 @@ The mission of the "Don't Trust, Verify" foundation is to promote the widespread
 Through advocacy, education, and community engagement, the foundation aims to empower people to take control of their financial future and promote the principles of transparency, privacy, and security in the cryptocurrency space.
 
 > We will work toward our mission by...
+
+
 Educating the public on the basics of Bitcoin and the benefits of using a decentralized digital currency.
+
 Supporting selected open-source projects which will accelerate Bitcoin adaptation.
+
 Encouraging businesses to accept Bitcoin as a form of payment and providing guidance on how to do so.
+
 Advocating for government policies that support the growth and adoption of Bitcoin and other cryptocurrencies.
-Building a strong community of Bitcoin enthusiasts who share the values of the foundation and can work together to achieve its mission.
+
+Building a strong community of Bitcoin enthusiasts who share the values of the foundation and can work together to achieve its mission. 
 
 The "Don't Trust, Verify" foundation believes that Bitcoin has the potential to revolutionize the financial industry by providing a more secure, transparent, and decentralized system for conducting transactions. Through its efforts, the foundation hopes to create a world where individuals have more control over their money and where financial transactions are conducted in a more open and equitable manner.The Don't Trust, Verify Foundation is a non-profit organization that was established to promote the use and adoption of Bitcoin, as well as to support and educate the community of users, developers, and businesses involved in the Bitcoin ecosystem.
 
