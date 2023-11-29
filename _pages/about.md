@@ -39,23 +39,12 @@ Supporting Development - ​The Foundation supports the development of blockchai
 
 Advocating for Policies - The Foundation advocates for policies that promote the growth and global  adoption of cryptocurrencies, and engages with government officials and other stakeholders to help shape these policies.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/09.jpg">
-    <img src="/images/06.jpg">
-    <img src="/images/03.jpg">
-    <img src="/images/08.jpg">
-    <img src="/images/05.jpg">
-    <img src="/images/11.jpg">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+
 
 ### Bitcoin
 #### Bitcoin has the potential to revolutionize much more than just one industry. Here are some potential areas where Bitcoin could make a significant impact:
 
 
-<p><iframe src="https://player.vimeo.com/video/147264547?title=0&byline=0" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
 
 Financial Inclusion - ​Bitcoin can enable people without access to traditional banking services to participate in the global financial system, as all you need is an internet connection to use Bitcoin. 
 
