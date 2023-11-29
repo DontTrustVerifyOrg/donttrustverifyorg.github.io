@@ -1,51 +1,47 @@
 ---
 layout: post
-title:  Do what you can, with what you have, where you are
+title:  Bitcoin, how they're obtained.
 description:
-date:   2018-11-12 15:01:35 +0300
-image:  '/images/07.jpg'
-tags:   [lifestyle, travel, story]
+date:   2023-11-29 10:31:11 +0300
+image:  '/bitcoinmining.jpeg'
+tags:   [Bitcoin, Financial, Blockchain]
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace [Lance Anderson](https://unsplash.com/photos/QdAAasrZhdk) diversity and empowerment.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Bitcoins are obtained through a process known as "mining" or by purchasing them on cryptocurrency exchanges.
+### Bitcoin Mining
+Bitcoin mining is the process by which new Bitcoins are created and transactions are confirmed and added to the blockchain. It involves a network of miners, who use specialized computer hardware to solve complex mathematical puzzles. Here's how it works:
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+Miners use powerful computers equipped with specialized hardware, known as Application-Specific Integrated Circuits (ASICs), to perform the calculations required for mining.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Miners collect and verify transactions made on the Bitcoin network. These transactions are bundled into a "block."
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+Once a miner solves the puzzle, the proposed block is verified by other nodes on the network. If it's valid, the block is added to the blockchain, and the miner is rewarded with newly created Bitcoins (the "block reward") and transaction fees.
 
-![House]({{site.baseurl}}/images/07-1.jpg)
-*Photo by [Lance Anderson](https://unsplash.com/photos/QdAAasrZhdk) on [Unsplash](https://unsplash.com/)*
+Approximately every four years, the block reward is halved, reducing the rate at which new Bitcoins are created. This process is known as the "Bitcoin Halving."
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Bitcoin Halving is used as a mean to combat inflation, and ensure the Bitcoin's value in the future keeping its scarcity as "Digital Gold". The total cap of Bitcoins is set at 21 million, Bitcoin halving ensures that it doesn't go over the 21 million. 
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
-### Podcasting
+![Bitcoin]({{site.baseurl}}/btcstanding.jpeg)
 
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking. Completely pursue scalable customer service through sustainable [Todd Quackenbush](https://unsplash.com/photos/JJB_K8aCPU4) potentialities.
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or "organic" sources.
+
+
+### Cryptocurrency Exchange
+The most common way for individuals to obtain Bitcoins is by purchasing them on cryptocurrency exchanges.
+
+There are many cryptocurrencies, the most common being Bitcoin (BTC), then following, Ethereum (ETH), Binance (BNB) or Tether (USDT). 
+
+Please note that the cryptocurrency market is highly dynamic, and the popularity and rankings of cryptocurrencies can change over time. Additionally, new cryptocurrencies are continually being introduced. It's essential to conduct thorough research and exercise caution when investing in cryptocurrencies, as they can be highly volatile and speculative assets.
+
+
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/08.jpg">
-    <img src="/images/05.jpg">
-    <img src="/images/11.jpg">
+    <img src="/images/eth.jpeg">
+    <img src="/images/bnb.jpeg">
+    <img src="/images/usdt.jpeg">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+
 </div>
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
-
-Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. Dramatically engage top-line web services vis-a-vis cutting-edge deliverables.
-
-### Synergistically evolve
-
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
-
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
-
-Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.
