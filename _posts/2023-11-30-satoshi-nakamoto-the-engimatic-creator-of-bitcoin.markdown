@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Satoshi Nakamoto The Enigmatic Creator of Bitcoin
+description:
 date:   2023-11-30 09:57:41 +0300
 image:  '/images/satoshinakamoto.jpeg'
 tags:   [Bitcoin, Financial, Blockchain]
