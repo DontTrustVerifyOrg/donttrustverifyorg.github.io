@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/about.png'
+image: '/images/bitcoin1.png'
 ---
 
 The mission of the "Don't Trust, Verify" foundation is to promote the widespread adoption and use of Bitcoin as a secure and decentralized digital currency by educating individuals, businesses, and governments.
