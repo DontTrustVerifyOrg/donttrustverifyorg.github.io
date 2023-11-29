@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
-title: Clancy
+title: Don\'t Trust Verify Foundation
 logo: # You can add own logo. For example '/images/logo.png'.
-author: Jason Collins
-description: Clancy is a elegant portfolio theme for Jekyll.
+author: Radek
+description: Don\'t Trust, Verify principle in Bitcoin reinforces the importance of self-sovereignty and individual responsibility in the cryptocurrency ecosystem. It emphasises the need for transparency, security, and trustlessness to ensure that the system operates in a decentralised and democratic manner.
 
 
 #-------------------------------
@@ -25,7 +25,7 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hello, my name’s Jason. I’m a Designer & Photographer based in San Francisco.
+  hero__title: "Don't Trust Verify Foundation"
   hero__description: I'm a freelance designer and photographer. For almost five years I have been working with clients from a variety of clients to create pieces that meet their goals. I invite you to navigate my portfolio to know a bit more about me and my work.
 
 
