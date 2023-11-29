@@ -34,7 +34,7 @@ Satoshi Nakamoto's creation, Bitcoin, has had a profound impact on the world in 
 
 5. Fostering Innovation: Satoshi Nakamoto's creation has sparked innovation in the field of cryptocurrencies and blockchain, leading to the development of thousands of digital currencies and blockchain projects.
 
-![Steps]({{site.baseurl}}/images/SatoshiNakamotobtc.jpg)
+![Steps]({{site.baseurl}}/images/craigwrightbtc.jpeg)
 
 
 In conclusion, while the identity of Satoshi Nakamoto remains one of the greatest mysteries of the digital age, their creation of Bitcoin and the underlying blockchain technology has undeniably transformed the world. Satoshi's vision of a decentralized, trustless financial system continues to shape the future of finance, technology, and beyond.
