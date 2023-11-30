@@ -15,6 +15,7 @@ DON'T TRUST, VERIFY INCORPORATED is an Australian not for profit organisation, r
           <p class="hero__description">
           The mission of the "Don't Trust, Verify" foundation is to promote the widespread adoption and use of Bitcoin as a secure and decentralized digital currency by educating individuals, businesses, and governments.
           </p>
+          </div>
           <p>
           Through advocacy, education, and community engagement, the foundation aims to empower people to take control of their financial future and promote the principles of transparency, privacy, and security in the cryptocurrency space.
           </p>
