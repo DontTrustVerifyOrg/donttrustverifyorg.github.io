@@ -3,7 +3,7 @@ layout: post
 title:  Will the Government Ban Bitcoin?
 description:
 date:   2023-10-05 09:57:41 +0300
-image:  '/images/btcban.png'
+image:  '/images/btcban.webp'
 tags:   [Bitcoin, Environment, Cryptocurrency]
 ---
 
