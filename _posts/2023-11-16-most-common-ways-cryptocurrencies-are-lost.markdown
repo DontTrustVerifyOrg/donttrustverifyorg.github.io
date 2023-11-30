@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Most Common Ways Cryptocurrencies are Lost
-date:   2023-11-29 12:12:11 +0300
+date:   2023-11-16 12:12:11 +0300
 image:  '/images/phishing.webp'
 tags:   [Bitcoin, Cryptocurrency, Scams]
 ---

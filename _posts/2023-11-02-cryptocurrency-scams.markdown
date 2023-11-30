@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Cryptocurrency Scams
-date:   2023-11-29 12:28:03 +0300
+date:   2023-11-02 12:28:03 +0300
 image:  '/images/btcscam.jpeg'
 tags:   [Bitcoin, Security, Scam]
 ---

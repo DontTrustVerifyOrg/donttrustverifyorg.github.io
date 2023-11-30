@@ -2,7 +2,7 @@
 layout: post
 title:  Blockchain Technology
 description:
-date:   2023-11-29 11:29:35 +0300
+date:   2023-10-19 11:29:35 +0300
 image:  '/images/blockchain.jpeg'
 tags:   [Blockchain, Bitcoin, Security]
 ---

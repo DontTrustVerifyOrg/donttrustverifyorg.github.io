@@ -2,7 +2,7 @@
 layout: post
 title:  Bitcoin, how they're obtained.
 description:
-date:   2023-11-29 10:31:11 +0300
+date:   2023-10-26 10:31:11 +0300
 image:  '/images/bitcoinmining.jpeg'
 tags:   [Bitcoin, Financial, Cryptocurrency]
 ---

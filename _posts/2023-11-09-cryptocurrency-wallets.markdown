@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Cryptocurrency Wallets
-date:   2023-11-29 11:43:42 +0300
+date:   2023-11-09 11:43:42 +0300
 image:  '/images/btcwallet.jpeg'
 tags:   [Bitcoin, Cryptocurrency, Security]
 ---
