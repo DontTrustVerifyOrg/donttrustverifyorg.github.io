@@ -4,7 +4,7 @@ title:  Blockchain Technology
 description:
 date:   2023-11-29 11:29:35 +0300
 image:  '/images/blockchain.jpeg'
-tags:   [Blockchain, Bitcoin, Digital]
+tags:   [Blockchain, Bitcoin, Security]
 ---
 
 Blockchain technology is a decentralized and distributed ledger system that allows multiple parties to record and verify transactions without the need for a central authority. It serves as the underlying technology for cryptocurrencies like Bitcoin, but its applications extend far beyond digital currencies. 

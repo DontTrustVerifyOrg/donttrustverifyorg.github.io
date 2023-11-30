@@ -4,7 +4,7 @@ title:  Bitcoin, how they're obtained.
 description:
 date:   2023-11-29 10:31:11 +0300
 image:  '/images/bitcoinmining.jpeg'
-tags:   [Bitcoin, Financial, Blockchain]
+tags:   [Bitcoin, Financial, Cryptocurrency]
 ---
 
 Bitcoins are obtained through a process known as "mining" or by purchasing them on cryptocurrency exchanges.
