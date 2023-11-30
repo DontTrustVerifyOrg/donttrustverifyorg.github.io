@@ -2,7 +2,7 @@
 layout: post
 title:  Cryptocurrency Wallets
 date:   2023-11-29 11:43:42 +0300
-image:  '/images/btcwallet.jpg'
+image:  '/images/btcwallet.jpeg'
 tags:   [Bitcoin, Cryptocurrency, Security]
 ---
 There are several types of cryptocurrency wallets, each with its own features and use cases. 
