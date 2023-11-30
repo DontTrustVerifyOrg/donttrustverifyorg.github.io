@@ -25,7 +25,7 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: "Don't Trust Verify Foundation"
+  hero__title: "Don't Trust, Verify Foundation"
   hero__description: "Don't Trust, Verify principle in Bitcoin reinforces the importance of self-sovereignty and individual responsibility in the cryptocurrency ecosystem. It emphasises the need for transparency, security, and trustlessness to ensure that the system operates in a decentralised and democratic manner."
 
 
