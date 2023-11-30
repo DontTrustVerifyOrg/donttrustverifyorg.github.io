@@ -2,7 +2,7 @@
 layout: post
 title:  Most Common Ways Cryptocurrencies are Lost
 date:   2023-11-29 12:12:11 +0300
-image:  '/images/phishing.jpeg'
+image:  '/images/phishing.webp'
 tags:   [Bitcoin, Cryptocurrency, Scams]
 ---
 The most common reasons for losing Bitcoin can be broadly categorized as follows:
@@ -19,7 +19,7 @@ The most common reasons for losing Bitcoin can be broadly categorized as follows
 
 6. Death Without Passing on Access Information: In cases where the owner of Bitcoin passes away without leaving access information (like private keys or wallet details), the Bitcoin can become inaccessible.
 
-![private key]({{site.baseurl}}/images/privatekey.jpeg)
+![private key]({{site.baseurl}}/images/privatekey.webp)
 
 
 Another way that you could lose your cryptocurrency's through is if the crypto exchange site that it is being held on goes bankrupt. When a crypto exchange goes bankrupt, the users of the exchange face the risk of losing their assets, face legal complexities, and may endure a long process of attempting to recover their funds, with no guarantee of full recovery. It highlights the importance of careful consideration of where and how to store cryptocurrencies.
@@ -28,7 +28,7 @@ Another way that you could lose your cryptocurrency's through is if the crypto e
 
 The phrase "not your keys, not your Bitcoin" is a fundamental principle in the cryptocurrency community. It emphasizes the importance of personal control over one's digital assets.
 
-![nyknyb]({{site.baseurl}}/images/nyknyb.jpeg)
+![nyknyb]({{site.baseurl}}/images/nyknyb.png)
 
 1. Ownership and Control: The 'keys' refer to the private keys associated with a cryptocurrency wallet. Having access to the private keys means having full control and ownership of the assets in that wallet. In contrast, if you don't control the private keys (like when your assets are on an exchange or in a custodial wallet), you don't have full control over your assets.
 
