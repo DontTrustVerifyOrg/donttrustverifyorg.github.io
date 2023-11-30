@@ -1,15 +1,29 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
-image: '/images/aboutus.png'
 ---
 
-The mission of the "Don't Trust, Verify" foundation is to promote the widespread adoption and use of Bitcoin as a secure and decentralized digital currency by educating individuals, businesses, and governments.
+DON'T TRUST, VERIFY INCORPORATED is an Australian not for profit organisation, registered in NSW Incorporated Associations Register under Incorporation Number **INC2300387**.
 
-Through advocacy, education, and community engagement, the foundation aims to empower people to take control of their financial future and promote the principles of transparency, privacy, and security in the cryptocurrency space.
 
-> We will work toward our mission by...
+  <div class="container">
+    <div class="row">
+      <div class="col col-14 col-d-12">
+        <div class="hero__inner">
+          <img src="{{site.baseurl}}/images/newlogo.png" style="padding-right:15px;float:left" width="30%"/>
+          <p class="hero__description">
+          The mission of the "Don't Trust, Verify" foundation is to promote the widespread adoption and use of Bitcoin as a secure and decentralized digital currency by educating individuals, businesses, and governments.
+          </p>
+          <p>
+          Through advocacy, education, and community engagement, the foundation aims to empower people to take control of their financial future and promote the principles of transparency, privacy, and security in the cryptocurrency space.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+>We will work toward our mission by...
 
 
 Educating the public on the basics of Bitcoin and the benefits of using a decentralized digital currency.
