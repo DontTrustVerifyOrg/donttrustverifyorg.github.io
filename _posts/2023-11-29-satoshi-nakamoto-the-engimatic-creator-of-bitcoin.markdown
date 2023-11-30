@@ -3,7 +3,7 @@ layout: post
 title:  Satoshi Nakamoto, The Enigmatic Creator of Bitcoin
 description:
 date:   2023-11-29 09:57:41 +0300
-image:  '/images/satoshinakamoto.jpeg'
+image:  '/images/satoshinakamoto.avif'
 tags:   [Bitcoin, Financial, Cryptocurrency]
 ---
 Satoshi Nakamoto is the mysterious figure behind the creation of Bitcoin, the world's first decentralized cryptocurrency. While the true identity of Satoshi remains unknown, the impact of their invention has reverberated throughout the financial world, revolutionizing the way we think about currency and trust.
