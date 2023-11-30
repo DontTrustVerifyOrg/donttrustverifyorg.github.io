@@ -4,7 +4,7 @@ title:  Will the Government Ban Bitcoin?
 description:
 date:   2023-10-05 09:57:41 +0300
 image:  '/images/btcban.webp'
-tags:   [Bitcoin, Environment, Cryptocurrency]
+tags:   [Bitcoin, Government, Cryptocurrency]
 ---
 
 ## The question of whether governments will ban Bitcoin is complex and varies by country. The response of different governments to Bitcoin and cryptocurrencies in general has ranged from very supportive to outright bans. Here are several factors that influence government stances on Bitcoin:
