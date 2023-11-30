@@ -3,7 +3,7 @@ layout: post
 title:  Bitcoin, how they're obtained.
 description:
 date:   2023-11-29 10:31:11 +0300
-image:  '/bitcoinmining.jpeg'
+image:  '/images/bitcoinmining.jpeg'
 tags:   [Bitcoin, Financial, Blockchain]
 ---
 
@@ -22,7 +22,7 @@ Approximately every four years, the block reward is halved, reducing the rate at
 Bitcoin Halving is used as a mean to combat inflation, and ensure the Bitcoin's value in the future keeping its scarcity as "Digital Gold". The total cap of Bitcoins is set at 21 million, Bitcoin halving ensures that it doesn't go over the 21 million. 
 
 
-![Bitcoin]({{site.baseurl}}/btcstanding.jpeg)
+![Bitcoin]({{site.baseurl}}/images/btcstanding.jpeg)
 
 
 
@@ -38,9 +38,9 @@ Please note that the cryptocurrency market is highly dynamic, and the popularity
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/eth.jpeg">
-    <img src="/images/bnb.jpeg">
-    <img src="/images/usdt.jpeg">
+    <img src="/webpage_initial/images/eth.jpeg">
+    <img src="/webpage_initial/images/bnb.jpeg">
+    <img src="/webpage_inital/images/usdt.jpeg">
   </div>
 
 </div>
