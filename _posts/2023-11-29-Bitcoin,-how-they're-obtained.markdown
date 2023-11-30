@@ -40,7 +40,7 @@ Please note that the cryptocurrency market is highly dynamic, and the popularity
   <div class="gallery">
     <img src="/webpage_initial/images/eth.jpeg">
     <img src="/webpage_initial/images/bnb.jpeg">
-    <img src="/webpage_inital/images/usdt.jpeg">
+    <img src="/webpage_initial/images/usdt.jpeg">
   </div>
 
 </div>
