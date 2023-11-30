@@ -3,7 +3,7 @@ layout: post
 title:  Blockchain Technology
 description:
 date:   2023-11-29 11:29:35 +0300
-image:  '/webpage_initial/images/blockchain.jpeg'
+image:  'images/blockchain.jpeg'
 tags:   [Blockchain, Bitcoin, Digital]
 ---
 
@@ -21,7 +21,7 @@ Blockchain technology is a decentralized and distributed ledger system that allo
 4. Consensus Mechanisms: Blockchain networks rely on consensus mechanisms to validate and agree on the content of each new block added to the chain. Common consensus mechanisms include Proof of Work (PoW) and Proof of Stake (PoS).1
 
 
-![Cryptography]({{site.baseurl}}/webpage_initial/images/cryptography.jpeg)
+![Cryptography]({{site.baseurl}}/webpage_initial/images/cryptography.jpg)
 
 ### How Blockchain Technology Works
 1. Transaction Creation: A participant initiates a transaction by creating a digital record of it. This record includes details such as sender, recipient, and transaction amount.
