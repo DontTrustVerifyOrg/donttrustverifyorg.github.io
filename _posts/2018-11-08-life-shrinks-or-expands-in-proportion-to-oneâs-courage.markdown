@@ -31,6 +31,6 @@ Cryptocurrency scams are unfortunately quite common, given the digital and often
 > "The first step toward avoiding scams is to learn how to spot them."
 
 
-![Malware]({{site.baseurl}}/malwareexample.png)
+![Malware]({{site.baseurl}}/images/malwareexample.png)
 
 Awareness and vigilance are crucial in the cryptocurrency space to avoid falling victim to these scams. Always research thoroughly, use reputable services, and be wary of offers that sound too good to be true.
