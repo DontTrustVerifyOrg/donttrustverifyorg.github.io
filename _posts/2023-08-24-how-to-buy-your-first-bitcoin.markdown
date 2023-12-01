@@ -3,7 +3,7 @@ layout: post
 title:  How to buy your first Bitcoin?
 description:
 date:   2023-08-24 09:57:41 +0300
-image:  '/images/btcard.png'
+image:  '/images/firstbtc.jpeg'
 tags:   [Bitcoin, Finance, Cryptocurrency]
 ---
 
