@@ -3,7 +3,7 @@ layout: post
 title:  How do you know there won’t be more than 21 million bitcoin?
 description:
 date:   2023-09-14 09:57:41 +0300
-image:  '/images/21millbtc.jpeg'
+image:  '/images/21millbtc.webp'
 tags:   [Bitcoin, Finance, Cryptocurrency]
 ---
 
