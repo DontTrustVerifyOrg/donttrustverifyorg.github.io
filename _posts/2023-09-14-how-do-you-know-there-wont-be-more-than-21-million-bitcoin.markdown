@@ -22,7 +22,7 @@ Bitcoins are created through a process called mining, where miners validate tran
 
 The halving process will continue until the mining reward becomes so small that it rounds down to zero. The design of the Bitcoin protocol ensures that this will occur once 21 million Bitcoins have been issued, which is expected to happen around the year 2140.
 
-![VAT]({{site.baseurl}}/images/btchalving.png)
+![btchalving]({{site.baseurl}}/images/btchalving.png)
 
 ### Protocol Governance
 
@@ -33,3 +33,13 @@ Changing the 21 million limit would require a consensus among the network partic
 The 21 million cap is a critical aspect of Bitcoin's value proposition. Altering this limit would undermine the trust and credibility Bitcoin has established as a form of digital gold. The economic incentives for keeping the cap are therefore very strong.
 
 In summary, the 21 million cap on Bitcoin is not just a feature of the software; it's a core part of Bitcoin's identity and value proposition. Changing it would require overwhelming consensus among network participants, which is unlikely given the economic and philosophical implications.
+
+### Calculation of the limit
+
+Sum of the Series: To calculate the total number of Bitcoins that will ever exist, you sum the number of Bitcoins produced in each cycle.
+
+First cycle: 50 BTC/block for 210,000 blocks = 10,500,000 BTC
+Second cycle: 25 BTC/block for 210,000 blocks = 5,250,000 BTC
+Third cycle: 12.5 BTC/block for 210,000 blocks = 2,625,000 BTC (CURRENT)
+
+![eq]({{site.baseurl}}/images/btcequation.png)
