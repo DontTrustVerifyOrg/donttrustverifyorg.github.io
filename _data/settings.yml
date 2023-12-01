@@ -73,10 +73,10 @@ portfolio:
 #-------------------------------
 # Subscribe Settings
 mailchimp:
-  mailchimp__title: Get updates and digital art inspiration # Add your Title
+  mailchimp__title: Stay Informed and Make an Impact! # Add your Title
   mailchimp__identifier: github.us12.list-manage.com/subscribe/post?u=2d4bec70a28350ded35452795&id=468938da57&amp;f_id=00bd4ce0f0
   mailchimp__button__text: Subscribe # Add your button text.
-  mailchimp__bg__color: "#f2eef8" # To change the color of the figure, add a hexadecimal color code (HEX). For example - "#f2eef8" (You can generate any color here - https://htmlcolorcodes.com/).
+  mailchimp__bg__color: "#ffbe2e" # To change the color of the figure, add a hexadecimal color code (HEX). For example - "#f2eef8" (You can generate any color here - https://htmlcolorcodes.com/).
 
 
 #-------------------------------
