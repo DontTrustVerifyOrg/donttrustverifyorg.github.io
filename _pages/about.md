@@ -3,6 +3,7 @@ layout: page
 title: About Us
 permalink: /about/
 ---
+<img src="{{site.baseurl}}/images/aboutus2.png" style="border-radius: 0px;min-height: 107px;object-fit: cover;overflow: hidden;"/>
 
 DON'T TRUST, VERIFY INCORPORATED is an Australian not for profit organisation, registered in NSW Incorporated Associations Register under Incorporation Number **INC2300387**.
 

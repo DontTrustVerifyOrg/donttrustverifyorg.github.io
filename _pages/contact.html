@@ -2,13 +2,13 @@
 layout: page
 title: Contact
 permalink: /contact/
-image: '/images/contactus.png'
 ---
 
 <div class="form-box">
   <div class="contact-head">
+    <img src="{{site.baseurl}}/images/contact2.png" style="border-radius: 0px;min-height: 107px;object-fit: cover;overflow: hidden;"/>
     {% if site.data.settings.contact.description %}
-      <p class="page-description">{{site.data.settings.contact.description}}</p>
+    <p class="page-description">{{site.data.settings.contact.description}}</p>
     {% endif %}
   </div>
   <form class="form" action="{% if site.data.settings.contact.email %}https://formspree.io/f/{{site.data.settings.contact.email}}{% else %}#{% endif %}" method="POST">
