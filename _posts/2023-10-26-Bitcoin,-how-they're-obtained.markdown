@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Bitcoin, how they're obtained.
+title:  Bitcoins, how they're obtained.
 description:
 date:   2023-10-26 10:31:11 +0300
 image:  '/images/bitcoinmining.jpeg'
@@ -30,18 +30,5 @@ Bitcoin Halving is used as a mean to combat inflation, and ensure the Bitcoin's 
 ### Cryptocurrency Exchange
 The most common way for individuals to obtain Bitcoins is by purchasing them on cryptocurrency exchanges.
 
-There are many cryptocurrencies, the most common being Bitcoin (BTC), then following, Ethereum (ETH), Binance (BNB) or Tether (USDT). 
-
-Please note that the cryptocurrency market is highly dynamic, and the popularity and rankings of cryptocurrencies can change over time. Additionally, new cryptocurrencies are continually being introduced. It's essential to conduct thorough research and exercise caution when investing in cryptocurrencies, as they can be highly volatile and speculative assets.
-
-
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/webpage_initial/images/eth.jpeg">
-    <img src="/webpage_initial/images/bnb.jpeg">
-    <img src="/webpage_initial/images/usdt.jpeg">
-  </div>
-
-</div>
+Please note that the cryptocurrency market is highly dynamic, and the popularity and rankings of cryptocurrencies can change over time. It's essential to conduct thorough research and exercise caution when investing in cryptocurrencies, as they can be highly volatile and speculative assets.
 

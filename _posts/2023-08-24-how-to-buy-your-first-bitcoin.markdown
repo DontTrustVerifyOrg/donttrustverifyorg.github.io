@@ -17,11 +17,27 @@ Before investing, understand what Bitcoin is, how it works, and the risks involv
 ### Choosing a Bitcoin Wallet 
 
 #### Wallet Types: 
-Choose between a hardware wallet for higher security, or ... ask your freinds how they lost their bitcoin.
+
+Here's a table summarizing the different types of cryptocurrency wallets:
+
+Sure, I'll add a column to the table to indicate whether each type of wallet is custodial or non-custodial:
+
+| Type              | Custodial/Non-Custodial | Description                                                  | Security Level            | Accessibility                         | Use Case                                     |
+|-------------------|-------------------------|--------------------------------------------------------------|---------------------------|---------------------------------------|----------------------------------------------|
+| **Hardware Wallets** | Non-Custodial           | Physical devices (like USB drives) for storing cryptocurrency. | High (cold storage)       | Less convenient for frequent transactions. | Ideal for long-term storage of large amounts. |
+| **Software Wallets** | Non-Custodial           | Digital wallets installed on devices or accessed online.     | Varies; generally lower than hardware wallets. | Highly accessible.                        | Convenient for frequent transactions and everyday use. |
+| - Desktop Wallets | Non-Custodial           | Installed on personal computers.                             | Good; depends on computer security. | Accessible from the computer.            | Good for regular use with added security.    |
+| - Mobile Wallets  | Non-Custodial           | Apps on smartphones.                                         | Good; depends on mobile security. | Very accessible for on-the-go use.      | Useful for daily transactions and payments.  |
+| - Web Wallets     | Can be both            | Accessed through web browsers, often hosted by exchanges.    | Lower; vulnerable to online threats. | Extremely accessible.                    | Suitable for frequent trading and ease of use. |
+| **Paper Wallets**   | Non-Custodial           | Physical documents with a public and private key printed.    | High when created/stored securely. | Not convenient for regular transactions. | Secure long-term storage or gifting.         |
+| **Custodial Wallets**| Custodial              | Wallets where a third party holds the private keys.          | Depends on third-party security. | Highly accessible.                        | Ideal for frequent traders valuing convenience. |
+| **Brain Wallets**   | Non-Custodial           | Created from a memorized passphrase.                        | Risky; susceptible to human error and attacks. | Accessible anywhere with passphrase.   | Risky; generally not recommended.            |
+
+- **Custodial Wallets**: The private keys are held by a third party (like an exchange), and the user trusts this entity for security.
+- **Non-Custodial Wallets**: The user holds and controls their own private keys, offering more control and responsibility for security.
 
 #### Security: 
 Ensure your wallet is secure. This includes storing your mnemonics (list of words) in the safe place and keeping your private key (a long string of numbers and letters) safe and confidential.
-
 
 #### Find a Bitcoin Exchange: 
 
@@ -67,8 +83,6 @@ Exchanges are dangerous for your Bitcoin and you should have your Bitcoin on you
 
 
 ### Keep your Investment Secure
-
-#### Security Practices: 
 Follow good security practices, like keeping your wallet’s private key and recovery phrase secure and offline.
 
 
