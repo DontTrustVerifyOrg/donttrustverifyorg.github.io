@@ -78,6 +78,8 @@ mailchimp:
   mailchimp__button__text: Subscribe # Add your button text.
   mailchimp__bg__color: "#ffbe2e" # To change the color of the figure, add a hexadecimal color code (HEX). For example - "#f2eef8" (You can generate any color here - https://htmlcolorcodes.com/).
 
+
+
 #-------------------------------
 # Footer Settings
 #social:
