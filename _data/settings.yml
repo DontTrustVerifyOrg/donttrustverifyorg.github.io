@@ -14,6 +14,8 @@ menu__settings:
       url: '/'
     - title: 'About'
       url: '/about/'
+    - title: 'Projects'
+      url: '/projects/'
     - title: 'Blog'
       url: '/blog/'
     - title: 'Contact'
@@ -31,7 +33,7 @@ hero:
 #-------------------------------
 # Portfolio Settings
 portfolio:
-  portfolio__title: Portfolio
+  portfolio__title: Our Projects
   portfolio__gallery:
     - image: /webpage_initial/images/gallery-01.jpg
       title: Samantha Gades
