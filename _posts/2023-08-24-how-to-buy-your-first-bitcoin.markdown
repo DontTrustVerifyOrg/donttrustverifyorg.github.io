@@ -7,7 +7,7 @@ image:  '/images/firstbtc.jpeg'
 tags:   [Bitcoin, Finance, Cryptocurrency]
 ---
 
-## Buying your first Bitcoin is an exciting!!!
+## Buying your first Bitcoin is an exciting!!!!!
 
 ### Understanding Bitcoin 
 
