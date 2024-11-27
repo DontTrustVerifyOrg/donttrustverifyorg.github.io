@@ -25,13 +25,6 @@ defaults:
       path: '_posts'
     values:
       permalink: /blog/:slug
-
-# Pages Path
-defaults:
-  - scope:
-      path: '_projs'
-    values:
-      permalink: /:basename:output_ext
   - scope:
       path: '_projs'
     values:
@@ -39,6 +32,7 @@ defaults:
 
 include:
   - _pages
+  - _posts
   - _projs
 
 sass:

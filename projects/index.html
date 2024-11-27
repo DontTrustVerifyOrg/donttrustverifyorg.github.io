@@ -25,7 +25,7 @@ description:
 <div class="container">
   <div class="row animate">
     {% if site.projs.size > 0 %}
-      {% for post in paginator.projs %}
+      {% for post in site.projs %}
         {% include article.html %}
       {% endfor %}
     {% endif %}
