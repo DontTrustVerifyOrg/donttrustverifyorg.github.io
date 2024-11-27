@@ -3,7 +3,7 @@
 title: "Don't Trust, Verify Foundation"
 logo: # You can add own logo. For example '/images/logo.png'.
 author: Radek
-description: "Don't Trust, Verify principle in Bitcoin reinforces the importance of self-sovereignty and individual responsibility that the system operates in a decentralised and democratic manner."
+description: "Our mission is to create a transparent, decentralized gig economy that empowers workers and ensures fairness for all."
 
 
 #-------------------------------
@@ -26,8 +26,8 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: "Don't Trust, Verify Foundation"
-  hero__description: "Don't Trust, Verify principle in Bitcoin reinforces the importance of self-sovereignty and individual responsibility. It emphasises the need for transparency, security, and trustlessness to ensure that the system operates in a decentralised and democratic manner."
+  hero__title: "Redefining the Gig Economy"
+  hero__description: "We believe it’s time to challenge this status quo and build a fairer, more transparent, and empowering gig economy. Our mission is simple but bold: to support technologies and initiatives that put power back into the hands of gig workers and customers—creating a system that benefits everyone, not just the platforms."
 
 
 #-------------------------------

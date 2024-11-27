@@ -12,64 +12,96 @@ DON'T TRUST, VERIFY INCORPORATED is an Australian not for profit organisation, r
     <div class="row">
       <div class="col col-14 col-d-12">
         <div class="hero__inner">
-          <img src="{{site.baseurl}}/images/newlogo.png" style="padding-right:15px;float:left" width="30%"/>
+          <img src="{{site.baseurl}}/images/newlogo.png" style="padding-right:15px;float:left" width="10%"/>
           <p class="hero__description">
-          The mission of the "Don't Trust, Verify" foundation is to promote the widespread adoption and use of Bitcoin as a secure and decentralized digital currency by educating individuals, businesses, and governments.
+          <strong>
+          Reimagining the Gig Economy: The Mission of the Don’t Trust, Verify Foundation
+          </strong>
           </p>
-  <p>&nbsp;</p>
-          <p>
-          Through advocacy, education, and community engagement, the foundation aims to empower people to take control of their financial future and promote the principles of transparency, privacy, and security in the cryptocurrency space.
-          </p>
+          <p>&nbsp;</p>
         </div>
       </div>
     </div>
   </div>
 
->We will work toward our mission by...
 
+The gig economy has revolutionized how we work, offering flexibility and opportunities for millions of people worldwide. From ridesharing to food delivery and freelance platforms, these apps have become indispensable tools for modern life. Yet, as the gig economy grows, its flaws have become increasingly evident: unfair treatment of workers, opaque systems, algorithmic discrimination, and unchecked control by centralized platforms. 
 
-Educating the public on the basics of Bitcoin and the benefits of using a decentralized digital currency.
+At the **Don’t Trust, Verify Foundation**, we believe it’s time to challenge this status quo and build a fairer, more transparent, and empowering gig economy. Our mission is simple but bold: to support technologies and initiatives that put power back into the hands of gig workers and customers—creating a system that benefits everyone, not just the platforms.
 
-Supporting selected open-source projects which will accelerate Bitcoin adaptation.
+### **The Problem with the Current Gig Economy**
 
-Encouraging businesses to accept Bitcoin as a form of payment and providing guidance on how to do so.
+Today’s gig economy platforms operate on centralized models that prioritize profits over people. While they provide convenience for users, they often do so at the expense of gig workers’ rights, autonomy, and security. Here’s what’s wrong:
 
-Advocating for government policies that support the growth and adoption of Bitcoin and other cryptocurrencies.
+1. **Misaligned Incentives**  
+   Platforms are designed to maximize shareholder value, leading to exploitative revenue-sharing practices and arbitrary policy changes. Workers and customers are treated as commodities, not stakeholders.
 
-Building a strong community of Bitcoin enthusiasts who share the values of the foundation and can work together to achieve its mission. 
+2. **Algorithmic Discrimination**  
+   Hidden algorithms create wage disparities, deny equal opportunities, and sometimes violate anti-discrimination laws. This opaque approach fuels worker dissatisfaction and mistrust.
 
-The "Don't Trust, Verify" foundation believes that Bitcoin has the potential to revolutionize the financial industry by providing a more secure, transparent, and decentralized system for conducting transactions. Through its efforts, the foundation hopes to create a world where individuals have more control over their money and where financial transactions are conducted in a more open and equitable manner. The Don't Trust, Verify Foundation is a non-profit organization that was established to promote the use and adoption of Bitcoin, as well as to support and educate the community of users, developers, and businesses involved in the Bitcoin ecosystem.
+3. **Lack of Transparency**  
+   Workers and customers have no visibility into how decisions are made. Whether it’s pricing, job allocation, or account deactivation, the inner workings of these platforms remain a black box.
 
-![Workflow]({{site.baseurl}}/images/bitcoin1.png)
+4. **Power Imbalances**  
+   Workers face deactivations and punishments without due process. They have little to no say in the policies that directly affect their livelihoods.
 
+5. **Privacy Concerns**  
+   Platforms accumulate vast amounts of sensitive data, often without proper consent, putting both workers and customers at risk of surveillance or misuse.
 
-The vision of the Don't Trust, Verify Foundation is to create a world where Bitcoin is a widely used and trusted currency that enables people to participate in the global economy on their own terms. The Foundation's goals include promoting the growth and development of the Bitcoin network, supporting the development of innovative applications and technologies that build on the Bitcoin protocol, and fostering education and awareness of the benefits of Bitcoin and blockchain technology. Overall, the Don't Trust, Verify Foundation envisions a future where Bitcoin is widely accepted and used as a means of exchange and store of value, enabling individuals and businesses to transact with greater speed, security, and efficiency than traditional financial systems.
+6. **Stifled Innovation**  
+   A few dominant platforms control the market, leaving little room for competition or alternative models that could better serve workers and customers.
 
-### Our Values
+---
 
-Raising Awareness - The Foundation works to raise awareness of cryptocurrencies and their potential benefits, as well as to educate the public about the risks and challenges associated with this new technology.
+### **Our Vision: A Fairer Gig Economy**
 
-Promoting Adoption - The Foundation encourages the adoption of cryptocurrencies by individuals, businesses, and institutions, and provides support and resources to help facilitate this adoption.
+We envision a gig economy that prioritizes people over profits, transparency over opacity, and empowerment over exploitation. At the heart of this vision is the **"Don’t Trust, Verify"** principle—an ethos inspired by decentralized systems like Bitcoin. 
 
-Supporting Development - ​The Foundation supports the development of blockchain technology by funding research and development projects, as well as by providing mentorship and other resources to developers.
+This principle challenges us to create systems where trust isn’t placed in corporations but in technology. We believe in empowering gig workers and customers with apps and platforms that are open, decentralized, and fair.
 
-Advocating for Policies - The Foundation advocates for policies that promote the growth and global  adoption of cryptocurrencies, and engages with government officials and other stakeholders to help shape these policies.
+---
 
+### **Our Mission in Action**
 
+To achieve this vision, we focus on three core objectives:
 
-### Bitcoin
-#### Bitcoin has the potential to revolutionize much more than just one industry. Here are some potential areas where Bitcoin could make a significant impact:
+1. **Empowering Gig Workers**  
+   We support tools and platforms that give workers more control over their livelihoods. Decentralized apps built on blockchain technology allow workers to set their own terms, engage directly with customers, and retain a fair share of their earnings.
 
+2. **Promoting Transparency**  
+   We advocate for systems where decisions—like pricing, job allocation, and performance evaluations—are made through open algorithms and transparent processes. This ensures fairness and accountability.
 
+3. **Driving Innovation**  
+   By funding and supporting projects like the **Gig-Gossip Protocol**, we enable the development of decentralized solutions that challenge the dominance of traditional platforms. These technologies eliminate intermediaries, reduce costs, and create a more equitable gig economy.
 
-Financial Inclusion - ​Bitcoin can enable people without access to traditional banking services to participate in the global financial system, as all you need is an internet connection to use Bitcoin. 
+---
 
-Micropayments - ​With Bitcoin, it is possible to send and receive very small payments quickly and cheaply. This could open up new possibilities for content creators and artists to monetize their work, as well as for small businesses to accept payments for low-cost items.
+### **The Gig-Gossip Protocol: A Foundation for Change**
 
-Decentralized Finance - ​Bitcoin is built on a decentralized blockchain, which means that it can be used to create a wide range of financial products and services that operate independently of traditional financial institutions. This has led to the rise of decentralized finance (DeFi), which is a new financial system that uses blockchain technology to provide financial services that are open, transparent, and accessible to everyone.
+One of the key technologies we support is the **Gig-Gossip Protocol**. This decentralized framework leverages blockchain, the Lightning Network, and Nostr to enable direct interactions between gig workers and customers. By removing intermediaries, the protocol:
 
-Supply Chain Management - ​The blockchain technology that underpins Bitcoin can be used to create a transparent and secure supply chain management system. This could enable businesses to track products from the point of origin to the point of sale, which would help to prevent fraud, counterfeiting, and other supply chain problems.
+- Ensures fair revenue sharing for workers.  
+- Provides transparency in decision-making processes.  
+- Enhances data privacy and security for all participants.  
+- Reduces costs for both workers and customers.  
 
-Identity Verification - ​Bitcoin's blockchain technology can be used to create a secure and decentralized system for identity verification. This could help to prevent identity theft and fraud, as well as to make it easier for people to access financial services and other online services that require identity verification.
+Learn more about the protocol [here](https://gig-gossip.org).
 
-***
+---
+
+### **Join the Movement**
+
+Building a fair gig economy is a collective effort. Whether you’re a gig worker, a customer, a developer, or simply someone who believes in fairness and transparency, we invite you to join us.
+
+- **Donate** to support our initiatives and fund the development of fairer technologies.  
+- **Collaborate** with us to create solutions that empower workers and customers.  
+- **Advocate** for policies that protect gig workers’ rights and promote transparency.  
+
+Together, we can move beyond the limitations of today’s gig economy and create a future that works for everyone.
+
+---
+
+### **Let’s Build a Better Gig Economy**
+
+The current gig economy is broken, but it doesn’t have to stay that way. With the **Don’t Trust, Verify Foundation**, we are laying the groundwork for a system that values people, fosters trust, and drives innovation. Join us in making this vision a reality—because a fairer gig economy is not just possible, it’s necessary.  
+
